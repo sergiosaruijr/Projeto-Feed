@@ -1,7 +1,7 @@
 # Projeto Feed
-Projeto de um feed utilizando React
+Projeto de feed utilizando React, sendo possível comentar as publicações, assim como a função de aplaudir o comentário.
 
 ## Imagens do Sistema
-<div align="center"> 
-  <img src="https://user-images.githubusercontent.com/54729444/218033006-92b0cc6c-6539-4409-9f3c-ff948336e502.PNG" width="800px"/>
+<div align="center">
+  <img src="https://github.com/sergiosaruijr/projeto-feed/assets/54729444/6ea1341b-88c4-4bb6-b76c-dffef1fb2726.PNG" width="800px"/>
 </div>
