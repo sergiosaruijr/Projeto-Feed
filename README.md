@@ -7,7 +7,7 @@ Projeto de feed utilizando React, sendo possível comentar as publicações, ass
 </div>
 
 
-## Imagens do Sistema
+## Ferramentas utilizadas
 Para realização do projeto, foram utilizados os seguintes conteúdos:
 * useState
 * Imutabilidade
